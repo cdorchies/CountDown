@@ -1,4 +1,4 @@
-# CountDown
+# CountDown App
 First React-Native project based on CountDown Horror Movie 
 
 - git clone git@github.com:cdorchies/CountDown.git
